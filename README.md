@@ -24,6 +24,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nestjs_icon_130355.png">
+   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png">
+
 
 
   </div>
