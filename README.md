@@ -23,7 +23,7 @@
   <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png">
-   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nodejs_logo_icon_168945.png">
+   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nodejs_horizontal_logo_icon_168075.png">
 
   </div>
     
