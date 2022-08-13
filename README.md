@@ -10,9 +10,8 @@
 
 ## Olá. Bem vinde!
 
-- <img src="https://img.icons8.com/officexs/16/fa314a/courses.png"/>Atualmente estudo JavaScript
-- <img src="https://img.icons8.com/officexs/16/fa314a/curly-brackets.png"/> Estou fazendo o programa de ensino back-end do {reprograma}
-- <img src="https://img.icons8.com/officexs/16/fa314a/diploma.png"/> Curriculo: https://drive.google.com/drive/u/0/folders/1vdT0NTFrSkeGi1p44VOAVL_MVRKTVTnY
+- <img src="https://img.icons8.com/officexs/16/fa314a/courses.png"/>Atualmente estudo Kotlin
+- <img src="https://img.icons8.com/officexs/16/fa314a/curly-brackets.png"/> Participei do programa de ensino back-end do {reprograma}
 
  <div>
   <a href="https://github.com/Dariellysantos">
