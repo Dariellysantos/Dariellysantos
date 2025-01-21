@@ -18,7 +18,7 @@ Technically, I'm continuously refining my skills to meet market demands and evol
 
 ### Profissionalmente  <a href="https://www.linkedin.com/in/darielly-santos/"><img src="https://github.com/Dariellysantos/Dariellysantos/assets/85026498/f21a1aa0-cd3e-4d48-afaa-a364d76de93d" alt="LinkedIn" width="40px"> </a>
 <img src = "https://endeavor.org.br/wp-content/uploads/2019/10/Logo-Full-Color-Arquivei-360x124.png" width="90px" />  
-Estagio em Engenharia de Software - Squad Suporte N2
+Engenharia de Software Junior 
 
 ### Dev Skills:
 
